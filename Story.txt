@@ -1,3 +1,5 @@
+
+
 Intro:
 This file is for story. A story of development of office 365 connector plugin for Jenkins.
 
@@ -28,3 +30,6 @@ Testing freestyle..
 
 New story
 testing pipeline..
+
+New story
+Testing freestyle..
